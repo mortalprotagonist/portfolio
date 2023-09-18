@@ -1,0 +1,8 @@
+.no-pad{
+    padding-right: 0px;
+}
+header{
+    position: fixed; 
+    width: 100%; 
+    z-index: 1;
+}
